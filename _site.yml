@@ -1,0 +1,26 @@
+name: "Blessing O.Ehinmowo"
+output_dir: "."
+navbar:
+  title: "Blessing O.Ehinmowo"
+  left:
+    - text: "Company Research"
+      href: research.html
+    - text: "Analysing"
+      href: Analysis.html
+    - text: "Model Building"
+      href: software.html
+    - text: "Teaching"
+      href: teaching.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/blessi
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/boriaifo2
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/blessing-ehinmowo-49a74768/
+output:
+  html_document:
+    theme: paper
+    css: 'styles'
